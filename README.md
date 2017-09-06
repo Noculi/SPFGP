@@ -1,4 +1,4 @@
 ## SPFGP
 ### Super Player For Good People
 
-Made in Electron using Vue.JS
+Made in Electron
